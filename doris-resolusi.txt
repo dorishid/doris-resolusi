@@ -2,4 +2,4 @@ DORIS RESOLUSI
 - Konsisten untuk belajar coding
 - Membuat web makanan nutribite
 - Membuat web profile 
-- Membuat brandbook
+
